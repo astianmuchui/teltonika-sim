@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="teltonika-sim">
+  <metadata><name>Nairobi CBD loop</name></metadata>
+  <trk>
+    <name>Nairobi CBD loop</name>
+    <trkseg>
+      <trkpt lat="-1.286400" lon="36.817200"><ele>1670</ele><time>2026-11-24T08:00:00Z</time></trkpt>
+      <trkpt lat="-1.284100" lon="36.821900"><ele>1672</ele><time>2026-11-24T08:00:40Z</time></trkpt>
+      <trkpt lat="-1.280500" lon="36.826300"><ele>1668</ele><time>2026-11-24T08:01:25Z</time></trkpt>
+      <trkpt lat="-1.277900" lon="36.830100"><ele>1665</ele><time>2026-11-24T08:02:05Z</time></trkpt>
+      <trkpt lat="-1.281200" lon="36.834400"><ele>1661</ele><time>2026-11-24T08:02:55Z</time></trkpt>
+      <trkpt lat="-1.286800" lon="36.832000"><ele>1663</ele><time>2026-11-24T08:03:45Z</time></trkpt>
+      <trkpt lat="-1.290300" lon="36.827100"><ele>1667</ele><time>2026-11-24T08:04:35Z</time></trkpt>
+      <trkpt lat="-1.289000" lon="36.821300"><ele>1669</ele><time>2026-11-24T08:05:20Z</time></trkpt>
+      <trkpt lat="-1.286400" lon="36.817200"><ele>1670</ele><time>2026-11-24T08:06:05Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
